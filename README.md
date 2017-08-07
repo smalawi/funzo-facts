@@ -36,4 +36,4 @@ See ```example_script.py``` for a sample (python 2.7).
 
 ## Hall of Fame
 
-Have any particularly enjoyable facts you'd like to share? Feel free to PR and add to ```hall_of_fame.md```.
+Have any particularly enjoyable facts you'd like to share? Feel free to add to ```hall_of_fame.md```.
