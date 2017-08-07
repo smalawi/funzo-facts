@@ -33,3 +33,7 @@ print fg.get_fact()
 Importing the Jeopardy! .csv doesn't take terribly long, but a pickle of the dataframe is provided anyway.
 
 See ```example_script.py``` for a sample (python 2.7).
+
+## Hall of Fame
+
+Have any particularly enjoyable facts you'd like to share? Feel free to PR and add to ```hall_of_fame.md```.
