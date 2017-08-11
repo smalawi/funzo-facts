@@ -14,7 +14,7 @@ class FactGenerator:
 
     def get_fact(self, count=1):
         train_txt = ""
-        indices = random.sample(range(len(self.jeo_df)), 3000)
+        indices = random.sample(range(len(self.jeo_df)), 4000)
         for i in indices:
             train_txt += self.jeo_df[' Question'][i] + ": " + self.jeo_df[' Answer'][i] + ". "
             
